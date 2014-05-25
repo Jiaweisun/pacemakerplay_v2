@@ -1,0 +1,7 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\conf\application.conf,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\application.conf)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\conf\evolutions,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\evolutions)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\conf\initial-data.yml,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\initial-data.yml)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\conf\routes,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\routes)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\conf\evolutions\default,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\evolutions\default)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\conf\evolutions\default\1.sql,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\evolutions\default\1.sql)[0m

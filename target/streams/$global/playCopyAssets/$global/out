@@ -1,0 +1,26 @@
+[0m[[0mdebug[0m] [0mCopy play resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\public\images\favicon.png,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\public\images\favicon.png)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\public\images\pacemaker.jpg,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\public\images\pacemaker.jpg)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\public\javascripts\jquery-1.9.0.min.js,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\public\javascripts\jquery-1.9.0.min.js)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\public\semantic\css\semantic.css,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\public\semantic\css\semantic.css)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\public\semantic\css\semantic.min.css,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\public\semantic\css\semantic.min.css)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\public\semantic\fonts\basic.icons.eot,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\public\semantic\fonts\basic.icons.eot)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\public\semantic\fonts\basic.icons.svg,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\public\semantic\fonts\basic.icons.svg)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\public\semantic\fonts\basic.icons.ttf,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\public\semantic\fonts\basic.icons.ttf)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\public\semantic\fonts\basic.icons.woff,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\public\semantic\fonts\basic.icons.woff)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\public\semantic\fonts\icons.eot,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\public\semantic\fonts\icons.eot)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\public\semantic\fonts\icons.otf,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\public\semantic\fonts\icons.otf)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\public\semantic\fonts\icons.svg,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\public\semantic\fonts\icons.svg)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\public\semantic\fonts\icons.ttf,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\public\semantic\fonts\icons.ttf)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\public\semantic\fonts\icons.woff,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\public\semantic\fonts\icons.woff)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\public\semantic\images\loader-large-inverted.gif,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\public\semantic\images\loader-large-inverted.gif)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\public\semantic\images\loader-large.gif,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\public\semantic\images\loader-large.gif)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\public\semantic\images\loader-medium-inverted.gif,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\public\semantic\images\loader-medium-inverted.gif)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\public\semantic\images\loader-medium.gif,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\public\semantic\images\loader-medium.gif)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\public\semantic\images\loader-mini-inverted.gif,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\public\semantic\images\loader-mini-inverted.gif)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\public\semantic\images\loader-mini.gif,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\public\semantic\images\loader-mini.gif)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\public\semantic\images\loader-small-inverted.gif,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\public\semantic\images\loader-small-inverted.gif)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\public\semantic\images\loader-small.gif,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\public\semantic\images\loader-small.gif)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\public\semantic\javascript\semantic.js,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\public\semantic\javascript\semantic.js)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\public\semantic\javascript\semantic.min.js,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\public\semantic\javascript\semantic.min.js)[0m
+[0m[[0mdebug[0m] [0m	(G:\workspacedpatterns\pacemakerplay_v2\public\stylesheets\main.css,G:\workspacedpatterns\pacemakerplay_v2\target\scala-2.10\classes\public\stylesheets\main.css)[0m
